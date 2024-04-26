@@ -22,7 +22,7 @@ header h1 a{
 
 .post-entry h2 a, 
 .post-entry h2, a:visited{
-    color:blue;
+    color:rgb(48, 132, 229);
     text-decoration: none;
 }
 
@@ -33,7 +33,7 @@ header h1 a{
 
 .post-entry p{
     margin: 0;
-    font-weight:400;
+    font-weight:40;
 }
 
 .post-entry h2 a:hover{
@@ -45,7 +45,7 @@ header h1 a{
 
 body{
     font-family: 'Source Sans Pro', sans-serif;
-    font-size: 18px;
+    font-size: 10px;
 }
 
 header{
